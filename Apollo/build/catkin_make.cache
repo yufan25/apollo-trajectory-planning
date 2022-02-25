@@ -1,0 +1,2 @@
+apollo_planning
+-DCATKIN_DEVEL_PREFIX=/home/yufan/Desktop/ros/Apollo/devel -DCMAKE_INSTALL_PREFIX=/home/yufan/Desktop/ros/Apollo/install -G Unix Makefiles
