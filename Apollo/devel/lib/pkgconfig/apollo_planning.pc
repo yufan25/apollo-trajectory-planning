@@ -1,0 +1,8 @@
+prefix=/home/yufan/Desktop/ros/Apollo/devel
+
+Name: apollo_planning
+Description: Description of apollo_planning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
